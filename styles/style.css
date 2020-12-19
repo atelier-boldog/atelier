@@ -1,0 +1,19 @@
+*,
+*:after,
+*:before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box !important;
+	list-style-type: none !important;
+}
+
+html {
+    font-family: 'Xanh Mono', monospace;
+	color: #303030
+}
+
+h1 {
+    font-size: 40pt;
+    text-align: center;
+    padding-top: 40px;
+}
